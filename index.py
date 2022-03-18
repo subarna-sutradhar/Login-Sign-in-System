@@ -1,8 +1,6 @@
-"""HOTEL BOOKING SYSTEM"""
 import pickle
 import os
-print('\t\tWELCOME TO THE HOTEL BOOKING SYSTEM')
-print('\t\t---BOOK YOUR DESTINATION RIGHT HERE---')
+
 print('CREDITS: SUBARNA SUTRADHAR\n')
 #-----------------------------------------------
 
